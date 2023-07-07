@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...Codings
 
 - <details>
-  <sumary>GitHub Statics</sumary>
+  <summary>GitHub Statics</summary>
   <img src="" alt="stats"/>
 </details>
 
