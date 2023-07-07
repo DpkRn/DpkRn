@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...Codings
 
+- <details>
+  <sumary>GitHub Statics</sumary>
+  <img src="" alt="stats"/>
+</details>
+
