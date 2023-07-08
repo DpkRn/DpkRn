@@ -31,4 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpkrn&show_icons=true&locale=en&layout=compact" alt="dpkrn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dpkrn&show_icons=true&locale=en&theme=darak" alt="dpkrn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dpkrn&show_icons=true&locale=en&theme=dark" alt="dpkrn" /></p>
