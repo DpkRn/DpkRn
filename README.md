@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpkrn&label=Profile%20views&color=0e75b6&style=flat" alt="dpkrn" /> </p>
 
-<img src="https://c4.wallpaperflare.com/wallpaper/851/501/292/programming-code-minimalism-wallpaper-preview.jpg" align="right" height="300px" width="350px"/>
+<img src="https://c4.wallpaperflare.com/wallpaper/851/501/292/programming-code-minimalism-wallpaper-preview.jpg" align="right" height="300px" width="550px"/>
 
 - 🔭 I love Working on **C/C++,Java, Android, Mern Stack Developer**
 
