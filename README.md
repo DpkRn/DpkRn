@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **Love Coding**
 
- <img src="https://github.com/DpkRn/DpkRn/blob/main/y.png" align="right"/>
+ <img src="https://c4.wallpaperflare.com/wallpaper/851/501/292/programming-code-minimalism-wallpaper-preview.jpg" align="right"/>
 <a href="https://mythrillfiction.com/" target="_blank">Mythrill</a>
 
 <h3 align="left">Connect with me:</h3>
