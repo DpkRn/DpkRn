@@ -1,4 +1,4 @@
-<img src="[y.png](https://github.com/DpkRn/DpkRn/blob/main/y.png)" align="right"/>
+
 
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **Love Coding**
 
- 
+ <img src="https://github.com/DpkRn/DpkRn/blob/main/y.png" align="right"/>
 <a href="https://mythrillfiction.com/" target="_blank">Mythrill</a>
 
 <h3 align="left">Connect with me:</h3>
