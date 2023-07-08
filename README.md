@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Love Coding**
 
-
+<style>
 @property --rotate {
   syntax: "<angle>";
   initial-value: 132deg;
@@ -123,7 +123,7 @@ a {
   Magic Card
 </div>
 
-
+</style>
 
 
 
