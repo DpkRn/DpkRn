@@ -1,25 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Deepak</h1>
+<h3 align="center">A passionate frontend and backend developer from India</h3>
 
-<!--
-**DpkRn/DpkRn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dpkrn&label=Profile%20views&color=0e75b6&style=flat" alt="dpkrn" /> </p>
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on ...My Own
-- 🌱 I’m currently learning ...Mern Stack Developer , Dsa for Competitive coding
-- 👯 I’m looking to collaborate on ... SoftWare or Web Developer Companies
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...d.wizard.techno@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...Codings
+- 🔭 I love Working on **C/C++,Java, Android, Mern Stack Developer**
 
-- <details>
-  <summary>GitHub Statics</summary>
-  <img src="" alt="stats"/>
-</details>
+- 🌱 I’m currently learning **DSA,JavaScript,React.js,Node.js**
 
-<img width="420" height="auto" align="right" alt="Arun's github stats" src="https://camo.githubusercontent.com/62154b9720f0eaa7dab425d84e7b718b1e0856390407670b0cddb7d83bcfbd12/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d696f6172756e2673686f775f69636f6e733d74727565267468656d653d6461726b26636f756e745f707269766174653d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ioarun&amp;show_icons=true&amp;theme=dark&amp;count_private=true&amp;include_all_commits=true" style="max-width: 100%;">
+- 📝 I regularly write articles on [dwizardinfo.blogspot.com](dwizardinfo.blogspot.com)
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2a83d79f763430eb3232e07e95a861abe66753f8ebb7bb17cbd9e327adb0d1d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079546f7263682d3030303030303f7374796c653d666c6174266c6f676f3d7079746f726368"><img src="https://camo.githubusercontent.com/2a83d79f763430eb3232e07e95a861abe66753f8ebb7bb17cbd9e327adb0d1d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5079546f7263682d3030303030303f7374796c653d666c6174266c6f676f3d7079746f726368" alt="PyTorch" data-canonical-src="https://img.shields.io/badge/-PyTorch-000000?style=flat&amp;logo=pytorch" style="max-width: 100%;"></a>
+- 💬 Ask me about **C/C++**
 
+- 📫 How to reach me **d.wizard.techno@gmail.com**
+
+- ⚡ Fun fact **Love Coding**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/https://www.instagram.com/uffh_rn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/uffh_rn" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/d_wizard_techno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/d_wizard_techno" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/d_wizard_techno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/d_wizard_techno/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/uffh_rn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/uffh_rn" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dpkrn&show_icons=true&locale=en&layout=compact" alt="dpkrn" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dpkrn&show_icons=true&locale=en" alt="dpkrn" /></p>
