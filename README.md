@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpkrn&label=Profile%20views&color=0e75b6&style=flat" alt="dpkrn" /> </p>
 
+<img src="https://c4.wallpaperflare.com/wallpaper/851/501/292/programming-code-minimalism-wallpaper-preview.jpg" align="right" height="300px" width="350px"/>
+
 - 🔭 I love Working on **C/C++,Java, Android, Mern Stack Developer**
 
 - 🌱 I’m currently learning **DSA,JavaScript,React.js,Node.js**
@@ -17,7 +19,7 @@
 
 - ⚡ Fun fact **Love Coding**
 
- <img src="https://c4.wallpaperflare.com/wallpaper/851/501/292/programming-code-minimalism-wallpaper-preview.jpg" align="right"/>
+ 
 <a href="https://mythrillfiction.com/" target="_blank">Mythrill</a>
 
 <h3 align="left">Connect with me:</h3>
