@@ -1,3 +1,5 @@
+<img src="y.png" align="right"/>
+
 <h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
