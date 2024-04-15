@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/https://www.instagram.com/uffh_rn" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/1409/1409946.png" alt="https://www.instagram.com/uffh_rn" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/uffh_rn" target="blank"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codeforces-512.png" srcset="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codeforces-1024.png 2x" alt="Codeforces" height="40" width="40"></a>
+<a href="https://codeforces.com/profile/uffh_rn" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codeforces-512.png" srcset="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codeforces-1024.png 2x" alt="Codeforces" height="40" width="40"></a>
 <a href="https://www.leetcode.com/https://leetcode.com/d_wizard_techno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/d_wizard_techno/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/uffh_rn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/uffh_rn" height="30" width="40" /></a>
 </p>
