@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpkrn&label=Profile%20views&color=0e75b6&style=flat" alt="dpkrn" /> </p>
 
-<img src="https://c4.wallpaperflare.com/wallpaper/851/501/292/programming-code-minimalism-wallpaper-preview.jpg" align="right" height="300px" width="400px"/>
+<img align="center" src="https://camo.githubusercontent.com/e41416698c7a9a049cc4fa72e222a5648c42db78316fe6c31b8c97c6113f9299/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d726f79616e7572616726" alt="royanurag" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=royanurag&amp;" style="max-width: 100%;">
 
 - 🔭 I love Working on **C/C++,Java, Android, Mern Stack Developer**
 
