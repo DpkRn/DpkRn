@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpkrn&label=Profile%20views&color=0e75b6&style=flat" alt="dpkrn" /> </p>
 
-<img align="center" src="https://camo.githubusercontent.com/e41416698c7a9a049cc4fa72e222a5648c42db78316fe6c31b8c97c6113f9299/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d726f79616e7572616726" alt="royanurag" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=royanurag&amp;" style="max-width: 100%;">
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/905b96edece53a982ed9dd6870ce61ad6ee85d6598755f88a859e0322a70842f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966">
 
 - 🔭 I love Working on **C/C++,Java, Android, Mern Stack Developer**
 
