@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpkrn&label=Profile%20views&color=0e75b6&style=flat" alt="dpkrn" /> </p>
 
-<img align="right" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://camo.githubusercontent.com/905b96edece53a982ed9dd6870ce61ad6ee85d6598755f88a859e0322a70842f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966" height="300px" width="400px">
+<img align="right" style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjgzMjM2MzEsIm5iZiI6MTcyODMyMzMzMSwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU4MjctYWQ1MDU4NWItMmUwOC00ZjQ1LTk4MzYtOWJiNmQ2N2UyYTg2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDA3VDE3NDg1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY4NzJkNmQ0ZThkNzViMGQ0OTY4YWZjNTJkYzVjNTAxNTkxMzliMGViOWMxYzZiZDc3MmJjYTNkMzA3ZmM1MDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.A6SkvyjnbDLrsgVcjGOIIwRzUjSn200ywvCS_KlhnaY" height="300px" width="400px">
 
 - 🔭 I love Working on **C/C++,Java, Android, Mern Stack Developer**
 
