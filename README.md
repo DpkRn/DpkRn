@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA,JavaScript,React.js,Node.js**
 
-- 📝 I regularly write articles on [dwizardinfo.blogspot.com](dwizardinfo.blogspot.com)
+- 📝 Visit On Linkbriger on [clickly.cv](clickly.cv)
 
 - 💬 Ask me about **C/C++**
 
