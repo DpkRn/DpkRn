@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA,JavaScript,React.js,Node.js**
 
-- 📝 Visit On Linkbriger on [clickly.cv](clickly.cv)
+- 📝 Visit On Linkbriger on <a href='clickly.cv'>clickly.cv</a> 
 
 - 💬 Ask me about **C/C++**
 
