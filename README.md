@@ -38,11 +38,11 @@ Go HTTP tunneling library · [pkg.go.dev](https://pkg.go.dev/github.com/dpkrn/go
 
 ## Tech stack
 
-**Languages** · `C` `C++` `Golang` `JavaScript` `Java` `Dart`
+**Languages** · `C++` `Golang` `JavaScript` 
 
-**Frontend & Mobile** · `React.js` `HTML5` `CSS3` `Flutter` `Android`
+**Frontend & Mobile** · `React.js` `HTML5` `CSS3` 
 
-**Backend & Tools** · `Node.js` `Express.js` `MySQL` `Oracle DB` `Git` `Linux`
+**Backend & Tools** · `Golang` `Express.js` `Postgresh` `MongoDB` `Redis` `ELK` `Docker` `AWS` `Git` `Linux`
 
 ---
 
