@@ -12,10 +12,11 @@
 - 🔭 Building **open-source projects** that are deployed and usable — not just repos sitting idle
 - 🤝 Open to collaborate — if you have an idea, open an issue or reach out
 - 📬 Reach me: **d.wizard.techno@gmail.com**
-- 🔗 projects:
+- 🔗 weekend projects:
       - [all in1 url](https://allin1url.in)
       - [Library for NPM](https://www.npmjs.com/package/@dpkrn/nodetunnel)
       - [Library for Golang](https://pkg.go.dev/github.com/dpkrn/gotunnel)
+      join me if you are interested :)
 
 ---
 
