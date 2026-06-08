@@ -42,7 +42,7 @@ Go HTTP tunneling library · [pkg.go.dev](https://pkg.go.dev/github.com/dpkrn/go
 
 **Frontend & Mobile** · `React.js` `HTML5` `CSS3` 
 
-**Backend & Tools** · `Golang` `Express.js` `Postgresh` `MongoDB` `Redis` `ELK` `Docker` `AWS` `Git` `Linux`
+**Backend & Tools** · `Golang` `Express.js` `Postgres` `MongoDB` `Redis` `ELK` `Docker` `AWS` `Git` `Linux`
 
 ---
 
