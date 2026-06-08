@@ -15,7 +15,7 @@
 - 🔗 weekend projects:
       - [all in1 url](https://allin1url.in)
       - [Library for NPM](https://www.npmjs.com/package/@dpkrn/nodetunnel)
-      - [Library for Golang](https://pkg.go.dev/github.com/dpkrn/gotunnel)
+      - [Library for Golang](https://pkg.go.dev/github.com/dpkrn/gotunnel) <hr>
       join me if you are interested :)
 
 ---
