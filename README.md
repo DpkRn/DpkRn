@@ -35,10 +35,8 @@ Go HTTP tunneling library · [pkg.go.dev](https://pkg.go.dev/github.com/dpkrn/go
 ![Go Reference](https://pkg.go.dev/badge/github.com/dpkrn/gotunnel.svg)
 
 ### AllIn1Url
-
-### 🛠️ Featured Open-Source Projects
-
-- **[allin1url](https://github.com)** – A full-stack Link-in-Bio utility and URL management dashboard to consolidate and track multiple web links.
+Link-in-Bio utility and URL management dashboard on your own free domain ·  **[Allin1url](https://github.com)**
+![Total Visitors]()
 
 ---
 
