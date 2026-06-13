@@ -37,7 +37,7 @@ Go HTTP tunneling library · [pkg.go.dev](https://pkg.go.dev/github.com/dpkrn/go
 ### [AllIn1Url](https://allin1url.in)
 Link-in-Bio utility and URL management dashboard on your own free domain ·  **[Allin1url](https://github.com)**
 
-![Total Visitors](https://img.shields.io/npm/dm/@dpkrn/nodetunnel?label=monthly%20downloads&color=orange)
+![allin1url](https://api.allin1url.in/stats-card)
 
 ---
 
