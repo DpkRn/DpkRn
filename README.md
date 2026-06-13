@@ -22,7 +22,7 @@
 
 ## Open-source packages
 
-### @dpkrn/nodetunnel
+### [@dpkrn/nodetunnel](https://www.npmjs.com/package/@dpkrn/nodetunnel)
 Node.js HTTP tunneling library · [npm](https://www.npmjs.com/package/@dpkrn/nodetunnel)
 
 ![npm downloads](https://img.shields.io/npm/dm/@dpkrn/nodetunnel?label=monthly%20downloads&color=orange)
