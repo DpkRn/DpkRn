@@ -29,12 +29,12 @@ Node.js HTTP tunneling library · [npm](https://www.npmjs.com/package/@dpkrn/nod
 ![total downloads](https://img.shields.io/npm/dt/@dpkrn/nodetunnel?label=total%20downloads&color=orange)
 ![npm version](https://img.shields.io/npm/v/@dpkrn/nodetunnel?color=blue)
 
-### gotunnel
+### [gotunnel](https://pkg.go.dev/github.com/dpkrn/gotunnel@v1.1.8)
 Go HTTP tunneling library · [pkg.go.dev](https://pkg.go.dev/github.com/dpkrn/gotunnel)
 
 ![Go Reference](https://pkg.go.dev/badge/github.com/dpkrn/gotunnel.svg)
 
-### AllIn1Url
+### [AllIn1Url](https://allin1url.in)
 Link-in-Bio utility and URL management dashboard on your own free domain ·  **[Allin1url](https://github.com)**
 
 ![Total Visitors](https://img.shields.io/npm/dm/@dpkrn/nodetunnel?label=monthly%20downloads&color=orange)
